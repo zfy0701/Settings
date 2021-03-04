@@ -1,0 +1,7 @@
+#!name=Mine Patches
+#!desc=一些增量规则
+
+[Rule]
+
+DOMAIN,stun.services.mozilla.com,DIRECT
+PROCESS-NAME,Microsoft Remote Desktop,DIRECT
